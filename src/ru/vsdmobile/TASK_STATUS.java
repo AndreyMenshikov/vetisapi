@@ -1,0 +1,5 @@
+package ru.vsdmobile;
+
+public enum TASK_STATUS {
+	NONE, QUEUED, ACCEPTED, COMPLETED, IN_PROCESS, REJECTED, REPEAT_REQUEST
+}
