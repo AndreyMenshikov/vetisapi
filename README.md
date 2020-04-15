@@ -27,3 +27,6 @@ ru.vsdmobile.samples.ProfileFactory - пример генерации рекви
 [https://vk.com/vsdmobile](https://vk.com/vsdmobile)
 
 [https://www.facebook.com/vetismobile](https://www.facebook.com/vetismobile)
+
+
+*** И да! На Android это не работает!!! ***
